@@ -1,0 +1,28 @@
+alch_bluestacks_v1 python script notes
+
+Before Starting Script:
+	-item to be alched must be placed in (1,1) inventory slot (uppper left)
+	-inventory tab can be open or closed
+	-magic tab MUST BE OPEN
+
+NOTE: inventory coordinates use (x,y) format beginning at (1,1) in upper left.
+	x-coordinate increases to the right
+	y-coordinate increases downward
+
+Coords:
+low alch icon: (235,291)
+(1,1) inventory slot: (695,274)
+(1,1) bank slot: (210,295)
+(2,1) bank slot: (259,295) move rel 95
+exit bank "x" icon: (615,215)
+superheat item icon: (180,339)
+(883,261) #inventory tab coords
+(30,345) #magic tab coords
+
+
+iron ore 148
+iron bar 256
+
+tin ore 61
+copper ore 51
+bronze bar 192
